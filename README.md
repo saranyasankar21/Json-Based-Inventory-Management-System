@@ -16,7 +16,7 @@ But while you will need an inventory management system, which one you choose is 
 
 # Inventory Management Features:
 1.Add new products
-2.Delete existing products
+\n2.Delete existing products
 3.Purchase 
 4.See transaction of previous purchases 
 5.Update the Inventory
