@@ -20,7 +20,7 @@ But while you will need an inventory management system, which one you choose is 
 3. Purchase 
 4. See transaction of previous purchases 
 5. Update the Inventory
-6. You can set a discount rate if product quantitis are brought more 
+6. You can set a discount rate if product quantities are brought more 
 
 
 
